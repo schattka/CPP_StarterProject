@@ -13,7 +13,7 @@ int main()
 	myDoubleVector.push_back(-1.0);
 
 
-	// print the vector contensts
+	// print the vector contents
 	std::cout << std::endl;
 	std::cout << "=======================================" << std::endl;
 	std::cout << "Vector elements:\n" << std::endl;
